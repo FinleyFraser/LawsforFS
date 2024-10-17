@@ -32,7 +32,7 @@ O<small>ctober</small> ##, 2024
 ---
   
 <h3>CHAPTER ONE</h3>
-Establishing the Stapleton County Economic Welfare Committee and Stapleton County of Economic Affairs Office.
+Establishing the Stapleton County Economic Welfare Committee and Stapleton County of Economic Affairs Office; the powers of each; EWC voting.
 
 ---
 
