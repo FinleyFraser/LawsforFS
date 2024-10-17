@@ -54,7 +54,7 @@ Establishing the Stapleton County Economic Welfare Committee and Stapleton Count
 
 **SECTION 8:** The EWC shall have a discord channel in the Stapleton County Discord Server where they will conduct all debates and votes. The votes shall be chaired by the director, or in their absence the County Executive. This channel may be public or private. All votes must be publicized by the director, or in their absence the County Executive. The District Attorney, if not a member of the EWC, shall be able to see this channel to ensure the lawful conduct of the EWC. If the District Attorney is a member of the EWC they shall appoint someone to ensure the lawful conduct of the EWC who must be able to see the channel.
 
-**SECTIOn 9:** The director of the EWC will be appointed by the EWC by any member of the EWC except the County Executive. The County Executive cannot be the director. If the director is elected County Executive they automatically vacate their position.
+**SECTION 9:** The director of the EWC will be appointed by the EWC by any member of the EWC except the County Executive. The County Executive cannot be the director. If the director is elected County Executive they automatically vacate their position.
 
 **SECTION 10:** The EWC shall be able to remove the director from their position by a simple majority vote. If the director is removed they will stay a normal member of the EWC.
 
@@ -76,4 +76,36 @@ Establishing the Stapleton County Economic Welfare Committee and Stapleton Count
 
 **SECTION 18:** The OEA shall be responsible for the administration, distribution, collection, tracking, and anything else necessary related to bonds, loans, and grants.
 
+
+---
+  
+<h3>CHAPTER TWO</h3>
+Establishing financial policies; bonds, loans, ads and grants. 
+
+---
+
+**SECTION 1:** The OEA can issue bonds to citizens of Firestone, the bond shall cost $10,000 FSD (unless amended by the EWC).
+
+**SECTION 2:** If a citizen buys a bond they shall get a coupon bi-weekly (unless amended by the EWC) for 3.97% (unless amended by the EWC).
+
+**SECTION 3:** Citizens shall hold bonds for 90 days (unless amended by the EWC). At the expiry of their bond, they shall be paid back the cost of their bond.
+
+**SECTION 4:** Citizens can prematurely sell their bond back to the OEA, bonds cannot be transferred or sold to other citizens. 
+
+**SECTION 5:** Once a bond is purchased the data about it (how frequent the coupon is, the coupon %, the bond length and the bond price) can not change.
+
+**SECTION 6:** The OEA shall be permitted to administer grants to businesses with an in-game property in Stapleton County so long they meet the requirements set out by the EWC.
+**SECTION 7:** The EWC can amend, add to, or remove grant conditions. 
+
+**SECTION 8:** The OEA shall give the EWC 48-hour notice before issuing a grant, the EWC can block a grant by a simple-majority vote.
+
+**SECTION 9:** Grants cannot be issued for more than $50,000 FSD (unless amended by the EWC).
+
+**SECTION 10:** The OEA shall be permitted to administer loans to businesses with a commerce license and Firestone citizens so long they meet the requirements set out by the EWC.
+
+**SECTION 11:** Loans shall be repaid with interest, the interest rate and payback frequency shall be set by the EWC. 
+
+**SECTION 12:** The EWC can create, amend, and remove any additional financial policies for bonds, loans, and grants.
+
+**SECTION 13:** All grants, loans and bonds shall be public and include all pertinent details.
 
