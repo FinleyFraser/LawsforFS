@@ -113,3 +113,39 @@ Establishing financial policies; bonds, loans, and grants.
 **SECTION 13:** The EWC can create, amend, and remove any additional financial policies for bonds, loans, and grants.
 
 **SECTION 14:** All grants, loans and bonds shall be public and include all pertinent details.
+
+**SECTION 15:** Bonds and loans shall be paid to OEA agents, supervisors, or the administrator. All funds gained and distributed by OEA agents, supervisors, or the administrator must be recorded. 
+
+**SECTION 16:** OEA agents, supervisors and the administrator cannot use funds gained for personal reasons, they must distribute funds when ordered for OEA reasons.
+
+---
+  
+<h3>CHAPTER TWO</h3>
+Establishing financial crimes related to this act; and ensuring the EWC and OEA stay in check. 
+
+---
+
+**SECTION 1:** Chapter 8, Section 6 of the Firestone Criminal Code shall be established and titled "§6 - Embezzling/Stealing OEA funds"
+
+It shall be a Felony Class C and recognized as a "Courts Only Offense", it shall state
+
+"(A) ‘Embezzling/Stealing OEA funds’ shall be recognized as an unlawful criminal offense within Stapleton County.
+
+(B) Embezzling/Stealing OEA funds shall be defined as doing any of the following acts:
+(B1) Failing to properly report funds gained as an OEA agent, supervisor, or administrator.
+(B2) Failing to properly report funds distributed as an OEA agent, supervisor, or administrator.
+(B3) Resigning, quitting, being fired from, or removed from the OEA and failing to give all gained funds to a OEA supervisor or the administrator when ordered.
+(B4) Using funds gained through a position in the OEA for personal reasons including but not limited to, buying a car, paying a fine, etc.
+(B5) Giving OEA funds to a person without proper authorization."
+
+**SECTION 1:** Chapter 8, Section 7 of the Firestone Criminal Code shall be established and titled "§6 - OEA Grant Fraud"
+
+It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it shall state
+
+"(A) ‘OEA Grant Fraud’ shall be recognized as an unlawful criminal offense within Stapleton County.
+
+(B) OEA Grant Fraud shall be defined as doing any of the following acts:
+(B1) Lying about any part of a business's status to gain funds from the OEA.
+(B2) Failing to use OEA grant money for the business.
+(B3) Failing to pay back grant money to the OEA if ordered."
+
