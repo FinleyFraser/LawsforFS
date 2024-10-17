@@ -72,9 +72,11 @@ Establishing the Stapleton County Economic Welfare Committee and Stapleton Count
 
 **SECTION 16:** The administrator shall be able to hire any citizen to "Agent" or "Supervisor" if qualified.
 
-**SECTION 17:** The EWC shall be able to remove any Agent or Supervisor by a super-majority vote, and blacklist anyone from the OEA by a unanimous vote. 
+**SECTION 17:** The EWC shall be able to remove any Agent or Supervisor by a super-majority vote, and blacklist anyone from the OEA by a unanimous vote. Blacklists can be removed by a simple-majority vote.
 
 **SECTION 18:** The OEA shall be responsible for the administration, distribution, collection, tracking, and anything else necessary related to bonds, loans, and grants.
+
+**SECTION 19:** No person shall be allowed to be a part of the EWC or OEA if they have an active criminal record that includes any felony, corruption, misuse of public office, or any crime created by this act.
 
 
 ---
