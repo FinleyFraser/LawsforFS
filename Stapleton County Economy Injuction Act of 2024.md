@@ -166,7 +166,7 @@ It shall be a Felony Class C and recognized as a "Courts Only Offense", it shall
 
 **SECTION 2:** Chapter 8, Section 7 of the Firestone Criminal Code shall be established and titled "§7 - OEA Grant Fraud"
 
-It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it shall state
+It shall be a Felony Class C and recognized as a "Courts Only Offense", it shall state
 
 "(A) ‘OEA Grant Fraud’ shall be recognized as an unlawful criminal offense within Stapleton County.
 
@@ -182,7 +182,7 @@ It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it
 
 **SECTION 3:** Chapter 8, Section 8 of the Firestone Criminal Code shall be established and titled "§8 - OEA Loan Fraud"
 
-It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it shall state
+It shall be a Felony Class C and recognized as a "Courts Only Offense", it shall state
 
 "(A) ‘OEA Loan Fraud’ shall be recognized as an unlawful criminal offense within Stapleton County.
 
@@ -196,7 +196,7 @@ It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it
 
 **SECTION 4:** Chapter 8, Section 9 of the Firestone Criminal Code shall be established and titled "§9 - EWC Inquiry Obstruction"
 
-It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it shall state
+It shall be a Felony Class C and recognized as a "Courts Only Offense", it shall state
 
 "(A) ‘EWC Inquiry Obstruction’ shall be recognized as an unlawful criminal offense within Stapleton County.
 
@@ -213,7 +213,7 @@ It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it
 ---
   
 <h3>CHAPTER FIVE</h3>
-Powers of the County Council; Congress of Firestone; Checks and balances
+Powers of the County Council; Checks and balances
 
 ---
 
@@ -221,6 +221,4 @@ Powers of the County Council; Congress of Firestone; Checks and balances
 
 **SECTION 2:** The Stapleton County Council shall be able to by a super-majority vote (2/3) add, remove, or amend any financial policy. 
 
-**SECTION 3:** Firestone Congress shall be able to by a simple majority vote of both chambers through a bill remove EWC committee members.
 
-**SECTION 4:** Firestone Congress shall be able to by a simple majority vote of both chambers through a bill add, remove, or amend any financial policy.
