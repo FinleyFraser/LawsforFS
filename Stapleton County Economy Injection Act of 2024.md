@@ -55,7 +55,7 @@ Establishing the Stapleton County Economic Welfare Committee and Stapleton Count
 
 **SECTION 11:** The EWC shall be able to remove the director from their position by a simple majority vote. If the director is removed they will stay a normal member of the EWC. The director cannot vote in this case.
 
-**SECTION 12:** The EWC may remove any member of the EWC by a super-majority vote (2/3). This does not include the County Executive. The person up for removal can not vote in this case. If the District Attorney or Commerce Secretary are removed by the EWC their seat will be left open, this seat cannot be filled by anyone else. If a new District Attorney or Commerce Secretary is confirmed they shall take the seat back over. The EWC can re-admit the District Attorney or Commerce Secretary into the committee by a simple majority vote.
+**SECTION 12:** The EWC may remove any member of the EWC by a super-majority vote (2/3). This does not include the County Executive, District Attorney, and Commerce Secretary. The person up for removal can not vote in this case.
 
 **SECTION 13:** Every EWC member, including the director, shall be allowed to vote on any issue unless it pertains to them or they hold a direct conflict of interest. EWC members can vote "Aye" (in the affirmative of) "Nay" (in the negative of) or "Abstain" (not in the affirmative of or negative of). In the event of a tie, the item shall be considered failed.
 
