@@ -263,5 +263,3 @@ The contingency plan; how this act may be nullified; and how funds will be dealt
 (B) The county actively holds bonds.
 
 **SECTION 2:** Chapter 6, Section 1 of this act shall not hold true if the act nullifying, voiding, or making this act not in effect in any similar matter has its own contingency plan on how to deal with the loans and bonds.
-
-
