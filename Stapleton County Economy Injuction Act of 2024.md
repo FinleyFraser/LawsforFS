@@ -42,31 +42,32 @@ Establishing the Stapleton County Economic Welfare Committee and Stapleton Count
 
 **SECTION 2:** Executive Order #19 within Stapleton County ("[Executive Order #19 - Cabinet Committees](https://trello.com/c/rW64JQTh/165-executive-order-19-cabinet-committees)") Section 4 shall be declared void.
 
-**SECTION 3:** The Economic Wellness Committee ("EWC") shall be established under the Stapleton County Executive Branch.
+**SECTION 3:** The Economic Welfare Committee ("EWC") shall be established under the Stapleton County Executive Branch. It shall be considered a government office for the purposes of law. 
 
-**SECTION 4:** The EWC shall consist of no more than seven (7) committee members. One seat on the committee shall be reserved for the County Executive. The EWC shall be led by a director.
+**SECTION 4:** The EWC shall consist of no more than seven (7) committee members. The County Executive, the Department of Commerce Secretary ("Commerce Secretary"), and the District Attorney shall all automatically hold a seat. The EWC shall be led by a director.
 
 **SECTION 5:** The EWC is responsible for overseeing and managing the OEA, changing financial policies as defined later in this act, and doing anything else as defined by this act.
 
 **SECTION 6:** EWC members shall be nominated by the County Executive and confirmed by the Stapleton County Council by a simple majority vote.
 
-**SECTION 7:** EWC members shall be considered members of the Stapleton County Executive Branch and considered in the County Executives Administration but not considered cabinet or sub-cabinet members. The County Executive cannot remove them. The Stapleton County Council shall be able to impeach EWC committee members.
+**SECTION 7:** EWC members shall be considered members of the Stapleton County Executive Branch and considered in the County Executives Administration but not considered cabinet or sub-cabinet members. The County Executive cannot remove them. The Stapleton County Council shall be able to impeach EWC committee members. The County Executive and District Attorney cannot be impeached from just the committee. The Commerce Secretary may be impeached from the committee by the Stapleton County Council, leaving their seat open, this seat cannot be filled by anyone else. If a new Commerce Secretary is confirmed by Congress they shall take the seat back over. The EWC can re admit the Commerce Secretary into the committee by a simple majority vote.
 
-**SECTION 8:** The EWC shall have a discord channel in the Stapleton County Discord Server where they will conduct all debates and votes. The votes shall be chaired by the director, or in their absence the County Executive. This channel may be public or private. All votes must be publicized by the director, or in their absence the County Executive. The District Attorney, if not a member of the EWC, shall be able to see this channel to ensure the lawful conduct of the EWC. If the District Attorney is a member of the EWC they shall appoint someone to ensure the lawful conduct of the EWC who must be able to see the channel.
+**SECTION 8:** The EWC shall have a discord channel in the Stapleton County Discord Server or an OEA/EWC specific discord where they will conduct all debates and votes. The votes shall be chaired by the director, or in their absence the County Executive. This channel may be public or private. All votes must be publicized by the director, or in their absence the County Executive. The District Attorney shall ensure the lawful conduct of the EWC.
 
-**SECTION 9:** The director of the EWC will be appointed by the EWC by any member of the EWC except the County Executive. The County Executive cannot be the director. If the director is elected County Executive they automatically vacate their position.
+**SECTION 9:** The director of the EWC will be elected by a simple majority vote of the EWC, the County Executive cannot be made director. The County Executive cannot be the director. If the director is elected County Executive they automatically vacate their position as director. The nominee for director cannot vote on their nomination.
 
-**SECTION 10:** The EWC shall be able to remove the director from their position by a simple majority vote. If the director is removed they will stay a normal member of the EWC.
+**SECTION 10:** The EWC shall be able to remove the director from their position by a simple majority vote. If the director is removed they will stay a normal member of the EWC. The director cannot vote in this case.
 
-**SECTION 11:** The EWC may remove any member of the EWC by a super-majority vote (2/3). This does not include the County Executive.
+**SECTION 11:** The EWC may remove any member of the EWC by a super-majority vote (2/3). This does not include the County Executive. The person up for removal can not vote in this case. If the District Attorney or Commerce Secretary are removed by the EWC their seat will be left open, this seat cannot be filled by anyone else. If a new District Attorney or Commerce Secretary is confirmed they shall take the seat back over. The EWC can re-admit the District Attorney or Commerce Secretary into the committee by a simple majority vote.
 
-**SECTION 12:** Every EWC member, including the director, shall be allowed to vote on any issue unless it pertains to them. EWC members can vote "Aye" (in the affirmative of) "Nay" (in the negative of) or "Abstain" (not in the affirmative of or negative of). In the event of a tie, the item shall be considered failed.
 
-**SECTION 13:** The Office of Economic Affairs ("OEA") shall be established under the EWC.
+**SECTION 12:** Every EWC member, including the director, shall be allowed to vote on any issue unless it pertains to them or they hold a direct conflict of interest. EWC members can vote "Aye" (in the affirmative of) "Nay" (in the negative of) or "Abstain" (not in the affirmative of or negative of). In the event of a tie, the item shall be considered failed.
 
-**SECTION 14:** The OEA shall be run by an administrator, who shall be nominated by the director, or in their absence the County Executive, and confirmed by the EWC. They do not need to be employed in the OEA.
+**SECTION 13:** The Office of Economic Affairs ("OEA") shall be established under the EWC. It shall be considered a government office for the purposes of law. 
 
-**SECTION 15:** The OEA shall consist of two other ranks "Supervisor" and "Agent". 
+**SECTION 14:** The OEA shall be run by an administrator, who shall be nominated by the director, or in their absence the County Executive, and confirmed by the EWC. They do not need to be employed in the OEA before being made administrator. 
+
+**SECTION 15:** The OEA shall consist of two other ranks "Supervisor" and "Agent". All employees of the OEA (Agents, Supervisors and the administrator) shall be considered "OEA officers", "OEA agents", "agents of the OEA" and "officers of the OEA", these terms can be used by any law to mean any employee of the OEA.
 
 **SECTION 15:** The administrator shall be considered at will and may be removed by the EWC by a simple-majority vote. If removed they shall be given the "Agent" role in the OEA.
 
