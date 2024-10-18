@@ -19,7 +19,7 @@ O<small>ctober</small> ##, 2024
   
 ---
   
-<h3>Stapleton County Economic Injection Act of 2024</h3>
+<h3>Stapleton County Economy Injection Act of 2024</h3>
 
 **PREAMBLE:** The Stapleton County Office of Economic Affairs alongside the Stapleton County Economic Welfare Committee as established by Executive Orders wish to create a more realistic and flourishing economy within the County allowing for citizens and businesses to benefit without causing the County to have to give all the money out of pocket.
 
