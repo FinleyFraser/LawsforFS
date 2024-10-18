@@ -12,7 +12,7 @@ O<small>ctober</small> ##, 2024
 
 **Author(s):** Stapleton County Office of Economic Affairs, Stapleton County Economic Welfare Committee, District Attorney FinleyFraser12345, Esquire.
 
-**Legal Reviewer(s):** District Attorney FinleyFraser12345, Esquire. 
+**Legal Reviewer(s):** District Attorney FinleyFraser12345, Esquire. The Hon. AydenJulien, Esquire.
 
 
 <div align="center">
