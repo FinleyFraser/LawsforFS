@@ -26,17 +26,12 @@ O<small>ctober</small> ##, 2024
 *By virtue of the County Charter of Stapleton County the Council hereby establishes that,*
 </div>
 
-
-<div align ="center">
-
 ---
   
 <h3>CHAPTER ONE</h3>
-Establishing the Stapleton County Economic Welfare Committee and Stapleton County of Economic Affairs Office; the powers of each; EWC voting.
+Establishing the Stapleton County Economic Welfare Committee and Stapleton County of Economic Affairs Office; (most) powers of each; EWC voting.
 
 ---
-
-</div>
 
 **SECTION 1:** Executive Order #20 within Stapleton County ("[Executive Order #20 - Office of Economic Affairs](https://trello.com/c/F0ustBYn/166-executive-order-20-office-of-economic-affairs)") shall be declared void.
 
@@ -60,7 +55,6 @@ Establishing the Stapleton County Economic Welfare Committee and Stapleton Count
 
 **SECTION 11:** The EWC may remove any member of the EWC by a super-majority vote (2/3). This does not include the County Executive. The person up for removal can not vote in this case. If the District Attorney or Commerce Secretary are removed by the EWC their seat will be left open, this seat cannot be filled by anyone else. If a new District Attorney or Commerce Secretary is confirmed they shall take the seat back over. The EWC can re-admit the District Attorney or Commerce Secretary into the committee by a simple majority vote.
 
-
 **SECTION 12:** Every EWC member, including the director, shall be allowed to vote on any issue unless it pertains to them or they hold a direct conflict of interest. EWC members can vote "Aye" (in the affirmative of) "Nay" (in the negative of) or "Abstain" (not in the affirmative of or negative of). In the event of a tie, the item shall be considered failed.
 
 **SECTION 13:** The Office of Economic Affairs ("OEA") shall be established under the EWC. It shall be considered a government office for the purposes of law. 
@@ -79,10 +73,30 @@ Establishing the Stapleton County Economic Welfare Committee and Stapleton Count
 
 **SECTION 19:** No person shall be allowed to be a part of the EWC or OEA if they have an active criminal record that includes any felony, corruption, misuse of public office, or any crime created by this act.
 
-
 ---
   
 <h3>CHAPTER TWO</h3>
+EWC Investigation powers; searches, inquiries, etc.
+
+---
+
+**SECTION 1:** The EWC may open inquiries into OEA officers who are suspected of misusing funds or failing to report fund gaining/distribution properly. 
+
+**SECTION 2:** The EWC may open inquiries into any other relevant financial matter.
+
+**SECTIOn 3:** The EWC may subpoena any relevant person to appear and testify in front of them during an inquiry, subpoenas must allow for 48 hours to comply. 
+
+**SECTION 4:** The EWC may subpoena screenshots of OEA officers' bank account funds and wallet funds. These screenshots must show the funds of both along with the time and date. The screenshot must be made after the subpoena is sent. The subpoena must allow for 24 hours to comply. 
+
+**SECTION 5:** If a person to be subpoenaed is on a properly established leave the subpoena must be set for 24 hours after they return at the earliest. If the leave is deemed "fake" or being abused to avoid the EWC the EWC can set the subpoena following the aforementioned guidelines.
+
+**SECTION 6:** Any OEA agent who fails or refuses to comply with a subpoena shall NOT be charged with any crime, however, they shall be terminated from the OEA (and EWC if applicable) immediately, ordered to return all OEA funds, blacklisted from the OEA & EWC, and from gaining any OEA funds in the future. 
+
+**SECTION 7:** If any person fails or refuses to answer a question asked by the EWC they shall NOT be charged with any crime, however, they shall be terminated from the OEA and EWC if applicable immediately, ordered to return all OEA funds if applicable, be ordered to pay back any grant or loan they have funds from, be blacklisted from the OEA & EWC, and from gaining any OEA funds in the future.
+
+---
+  
+<h3>CHAPTER THREE</h3>
 Establishing financial policies; bonds, loans, and grants. 
 
 ---
@@ -117,11 +131,15 @@ Establishing financial policies; bonds, loans, and grants.
 
 **SECTION 15:** Bonds and loans shall be paid to OEA agents, supervisors, or the administrator. All funds gained and distributed by OEA agents, supervisors, or the administrator must be recorded. 
 
-**SECTION 16:** OEA agents, supervisors and the administrator cannot use funds gained for personal reasons, they must distribute funds when ordered for OEA reasons.
+**SECTION 16:** OEA officers cannot use funds gained for personal reasons, they must distribute funds when ordered for OEA reasons.
+
+**SECTION 17:** The OEA shall track all OEA agents' gaining and distribution of OEA funds.
+
+**SECTION 18:** The OEA shall not be allowed to give more funds than they currently have in storage.
 
 ---
   
-<h3>CHAPTER TWO</h3>
+<h3>CHAPTER FOUR</h3>
 Establishing financial crimes related to this act; and ensuring the EWC and OEA stay in check. 
 
 ---
@@ -139,14 +157,38 @@ It shall be a Felony Class C and recognized as a "Courts Only Offense", it shall
 (B4) Using funds gained through a position in the OEA for personal reasons including but not limited to, buying a car, paying a fine, etc.
 (B5) Giving OEA funds to a person without proper authorization."
 
-**SECTION 1:** Chapter 8, Section 7 of the Firestone Criminal Code shall be established and titled "§6 - OEA Grant Fraud"
+**SECTION 2:** Chapter 8, Section 7 of the Firestone Criminal Code shall be established and titled "§7 - OEA Grant Fraud"
 
 It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it shall state
 
 "(A) ‘OEA Grant Fraud’ shall be recognized as an unlawful criminal offense within Stapleton County.
 
 (B) OEA Grant Fraud shall be defined as doing any of the following acts:
-(B1) Lying about any part of a business's status to gain funds from the OEA.
+(B1) Lying about any part of a business's status to gain funds from the OEA. This includes information about employees and the owner if asked.
 (B2) Failing to use OEA grant money for the business.
-(B3) Failing to pay back grant money to the OEA if ordered."
+(B3) Failing to pay back grant money to the OEA if ordered.
+(B4) Failing to use grant money within the stipulated requirements."
+
+**SECTION 3:** Chapter 8, Section 8 of the Firestone Criminal Code shall be established and titled "§8 - OEA Loan Fraud"
+
+It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it shall state
+
+"(A) ‘OEA Loan Fraud’ shall be recognized as an unlawful criminal offense within Stapleton County.
+
+(B) OEA Loan Fraud shall be defined as doing any of the following acts:
+(B1) Lying about any part of a business's status to gain funds from the OEA.
+(B3) Failing to pay the loan back in time or in the correct amounts.
+(B4) Using loan money to fund crimes."
+
+**SECTION 4:** Chapter 8, Section 9 of the Firestone Criminal Code shall be established and titled "§9 - EWC Inquiry Obstruction"
+
+It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it shall state
+
+"(A) ‘EWC Inquiry Obstruction’ shall be recognized as an unlawful criminal offense within Stapleton County.
+
+(B) EWC Inquiry Obstruction shall be defined as doing any of the following acts:
+(B1) Lying, misleading, or withholding facts to/from the EWC during an inquiry.
+(B2) Failing to comply with a subpoena to appear in front of the EWC. Failing to testify after appearing is not considered a crime under this section.
+(B3) Falsifying screenshots, evidence, etc sent to the EWC during an inquiry.
+(B4) Being an OEA officer and failing to send a true and accurate screenshot as subpoenas by the EWC pursuant to Chapter 2 Section 4 of the "Stapleton County Economy Injuction Act of 2024". Failing to send a screenshot at all shall not be considered a crime under this section if made clear to the EWC."
 
