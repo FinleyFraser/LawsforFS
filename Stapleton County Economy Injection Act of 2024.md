@@ -104,41 +104,65 @@ Establishing financial policies; bonds, loans, and grants.
 
 ---
 
-**SECTION 1:** The OEA can issue bonds to citizens of Firestone, the bond shall cost $10,000 FSD (unless amended by the EWC).
+**SECTION 1**: The OEA shall retain the ability to issue bond securities to citizens of the county. 
 
-**SECTION 2:** If a citizen buys a bond they shall get a coupon bi-weekly (unless amended by the EWC) for 3.97% (unless amended by the EWC).
+**SECTION 2**: When issuing bonds, the OEA shall be required to issue a "Stapleton County Offering Circular," hereinafter referred to as the "circular."
 
-**SECTION 3:** Citizens shall hold bonds for 90 days (unless amended by the EWC). At the expiry of their bond, they shall be paid back the cost of their bond.
+**SECTION 2a**: The OEA shall only be permitted to release one offering circular per calendar month.
 
-**SECTION 4:** Citizens can prematurely sell their bond back to the OEA, bonds cannot be transferred or sold to other citizens. 
+**SECTION 2b**: Each circular shall be submitted by the OEA and approved by the EWC prior to being released to the public.
 
-**SECTION 5:** Once a bond is purchased the data about it (how frequent the coupon is, the coupon %, the bond length and the bond price) can not change.
+**SECTION 2c**: The circular shall contain an identifiable number in the format "YY-MM."
 
-**SECTION 6:** The OEA shall be permitted to administer grants to businesses with an in-game property in Stapleton County so long they meet the requirements set out by the EWC.
+**SECTION 2d**: The circular shall contain the amount of securities being offered. The OEA shall not be able to offer more than 25 securities in a calendar month.
 
-**SECTION 7:** The OEA shall give the EWC 48-hour notice before issuing a grant, the EWC can block a grant by a simple-majority vote.
+**SECTION 2e**: The circular shall contain the security price, interest rate, maturity date, and terms of the offering.
 
-**SECTION 8:** Grants cannot be issued for more than $50,000 FSD.
+**SECTION 2f**: The circular shall also contain the offering window, a period of 3-5 days where securities may be purchased.
 
-**SECTION 9:** The OEA shall be permitted to administer loans to businesses with a commerce license and Firestone citizens so long they meet the requirements set out by the EWC.
+**SECTION 3**: The security shall have the following terms contained within it:
 
-**SECTION 10:** Loans shall be repaid with interest, the interest rate and payback frequency shall be set by the EWC. 
+**SECTION 3a**: The purchase price, yield rate, maturity date, and return value shall be disclosed to the purchaser.
 
-**SECTION 11:** The OEA shall give the EWC 24-hour notice before issuing a loan, the EWC can block a loan by a simple-majority vote.
+**SECTION 3b**: The coupon rate and the dates the coupon is collectible. If the coupon is unable to be collected on the date, it shall be available to be collected on any day after the collection date, or included in the return value.
 
-**SECTION 12:** Loans cannot be issued for more than $75,000 FSD.
+**SECTION 3c**: The OEA shall designate at least one employee to be a "paying agent", these employee(s) shall handle all fund transfers with citizens.
 
-**SECTION 13:** The EWC can create, amend, and remove any additional financial policies for bonds, loans, and grants.
+**SECTION 4**: Each security shall have a maturity date of no longer than 2 months after it is purchased.
 
-**SECTION 14:** All grants, loans and bonds shall be public and include all pertinent details.
+**SECTION 5**: The OEA, within 48 hours of a security purchase, produce a digital document containing the details of the security purchased.
 
-**SECTION 15:** Bonds and loans shall be paid to OEA agents, supervisors, or the administrator. All funds gained and distributed by OEA agents, supervisors, or the administrator must be recorded. 
+**SECTION 5a**: Each digital document shall contain a unique identifiable number, labeled as the Stapleton County Uniformed Securities Identification Number, or SCUSIN. The format of this number shall be "SCUSIN ###### SC #"
 
-**SECTION 16:** OEA officers cannot use funds gained for personal reasons, they must distribute funds when ordered for OEA reasons.
+**SECTION 6**: Securities offered by the county are unable to be redeemed prior to maturity. Securities are also unable to be sold, or otherwise transferred to another citizen.
 
-**SECTION 17:** The OEA shall track all OEA agents' gaining and distribution of OEA funds.
+**SECTION 7**: Any transfer or payments to or from the county/a paying agent shall be recorded with proper proof of identification for all parties present.
 
-**SECTION 18:** The OEA shall not be allowed to give more funds than they currently have in storage.
+**SECTION 8:** The OEA shall be permitted to administer grants to businesses with an in-game property in Stapleton County so long they meet the requirements set out by the EWC.
+
+**SECTION 9:** The OEA shall give the EWC 48-hour notice before issuing a grant, the EWC can block a grant by a simple-majority vote.
+
+**SECTION 10:** Grants cannot be issued for more than $50,000 FSD.
+
+**SECTION 11:** The OEA shall be permitted to administer loans to businesses with a commerce license and Firestone citizens so long they meet the requirements set out by the EWC.
+
+**SECTION 12:** Loans shall be repaid with interest, the interest rate and payback frequency shall be set by the EWC. 
+
+**SECTION 13:** The OEA shall give the EWC 24-hour notice before issuing a loan, the EWC can block a loan by a simple-majority vote.
+
+**SECTION 14:** Loans cannot be issued for more than $75,000 FSD.
+
+**SECTION 15:** The EWC can create, amend, and remove any additional financial policies for bonds, loans, and grants.
+
+**SECTION 16:** All grants, loans and bonds shall be public and include all pertinent details.
+
+**SECTION 17:** Bonds and loans shall be paid to OEA agents, supervisors, or the administrator. All funds gained and distributed by OEA agents, supervisors, or the administrator must be recorded. 
+
+**SECTION 18:** OEA officers cannot use funds gained for personal reasons, they must distribute funds when ordered for OEA reasons.
+
+**SECTION 19:** The OEA shall track all OEA agents' gaining and distribution of OEA funds.
+
+**SECTION 20:** The OEA shall not be allowed to give more funds than they currently have in storage.
 
 ---
   
