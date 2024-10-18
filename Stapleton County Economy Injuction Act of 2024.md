@@ -45,7 +45,7 @@ Establishing the Stapleton County Economic Welfare Committee and Stapleton Count
 
 **SECTION 6:** EWC members shall be nominated by the County Executive and confirmed by the Stapleton County Council by a simple majority vote.
 
-**SECTION 7:** EWC members shall be considered members of the Stapleton County Executive Branch and considered in the County Executives Administration but not considered cabinet or sub-cabinet members. The County Executive cannot remove them. The Stapleton County Council shall be able to impeach EWC committee members. The County Executive and District Attorney cannot be impeached from just the committee. The Commerce Secretary may be impeached from the committee by the Stapleton County Council, leaving their seat open, this seat cannot be filled by anyone else. If a new Commerce Secretary is confirmed by Congress they shall take the seat back over. The EWC can re admit the Commerce Secretary into the committee by a simple majority vote.
+**SECTION 7:** EWC members shall be considered members of the Stapleton County Executive Branch and considered in the County Executives Administration but not considered cabinet or sub-cabinet members. The County Executive cannot remove them.
 
 **SECTION 8:** The EWC shall have a discord channel in the Stapleton County Discord Server or an OEA/EWC specific discord where they will conduct all debates and votes. The votes shall be chaired by the director, or in their absence the County Executive. This channel may be public or private. All votes must be publicized by the director, or in their absence the County Executive. The District Attorney shall ensure the lawful conduct of the EWC.
 
@@ -92,7 +92,9 @@ EWC Investigation powers; searches, inquiries, etc.
 
 **SECTION 6:** Any OEA agent who fails or refuses to comply with a subpoena shall NOT be charged with any crime, however, they shall be terminated from the OEA (and EWC if applicable) immediately, ordered to return all OEA funds, blacklisted from the OEA & EWC, and from gaining any OEA funds in the future. 
 
-**SECTION 7:** If any person fails or refuses to answer a question asked by the EWC they shall NOT be charged with any crime, however, they shall be terminated from the OEA and EWC if applicable immediately, ordered to return all OEA funds if applicable, be ordered to pay back any grant or loan they have funds from, be blacklisted from the OEA & EWC, and from gaining any OEA funds in the future.
+**SECTION 7:** If any person fails or refuses to answer a question asked by the EWC in an inquiry they shall NOT be charged with any crime, however, they shall be terminated from the OEA and EWC if applicable immediately, ordered to return all OEA funds if applicable, be ordered to pay back any grant or loan they have funds from, be blacklisted from the OEA & EWC, and from gaining any OEA funds in the future.
+
+**SECTION 8:** Any person who fails to appear when subpoenaed shall be charged in accordance with laws defined further in this act, be terminated from the OEA and EWC if applicable immediately, ordered to return all OEA funds if applicable, be ordered to pay back any grant or loan they have funds from, be blacklisted from the OEA & EWC, and from gaining any OEA funds in the future.
 
 ---
   
@@ -151,10 +153,15 @@ It shall be a Felony Class C and recognized as a "Courts Only Offense", it shall
 "(A) ‘Embezzling/Stealing OEA funds’ shall be recognized as an unlawful criminal offense within Stapleton County.
 
 (B) Embezzling/Stealing OEA funds shall be defined as doing any of the following acts:
+
 (B1) Failing to properly report funds gained as an OEA agent, supervisor, or administrator.
+
 (B2) Failing to properly report funds distributed as an OEA agent, supervisor, or administrator.
+
 (B3) Resigning, quitting, being fired from, or removed from the OEA and failing to give all gained funds to a OEA supervisor or the administrator when ordered.
+
 (B4) Using funds gained through a position in the OEA for personal reasons including but not limited to, buying a car, paying a fine, etc.
+
 (B5) Giving OEA funds to a person without proper authorization."
 
 **SECTION 2:** Chapter 8, Section 7 of the Firestone Criminal Code shall be established and titled "§7 - OEA Grant Fraud"
@@ -164,9 +171,13 @@ It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it
 "(A) ‘OEA Grant Fraud’ shall be recognized as an unlawful criminal offense within Stapleton County.
 
 (B) OEA Grant Fraud shall be defined as doing any of the following acts:
+
 (B1) Lying about any part of a business's status to gain funds from the OEA. This includes information about employees and the owner if asked.
+
 (B2) Failing to use OEA grant money for the business.
+
 (B3) Failing to pay back grant money to the OEA if ordered.
+
 (B4) Failing to use grant money within the stipulated requirements."
 
 **SECTION 3:** Chapter 8, Section 8 of the Firestone Criminal Code shall be established and titled "§8 - OEA Loan Fraud"
@@ -176,8 +187,11 @@ It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it
 "(A) ‘OEA Loan Fraud’ shall be recognized as an unlawful criminal offense within Stapleton County.
 
 (B) OEA Loan Fraud shall be defined as doing any of the following acts:
+
 (B1) Lying about any part of a business's status to gain funds from the OEA.
-(B3) Failing to pay the loan back in time or in the correct amounts.
+
+(B3) Failing to pay the loan back in time or failing to pay the correct amounts or more.
+
 (B4) Using loan money to fund crimes."
 
 **SECTION 4:** Chapter 8, Section 9 of the Firestone Criminal Code shall be established and titled "§9 - EWC Inquiry Obstruction"
@@ -187,8 +201,26 @@ It shall be a Misdemeanour Class A and recognized as a "Courts Only Offense", it
 "(A) ‘EWC Inquiry Obstruction’ shall be recognized as an unlawful criminal offense within Stapleton County.
 
 (B) EWC Inquiry Obstruction shall be defined as doing any of the following acts:
-(B1) Lying, misleading, or withholding facts to/from the EWC during an inquiry.
-(B2) Failing to comply with a subpoena to appear in front of the EWC. Failing to testify after appearing is not considered a crime under this section.
-(B3) Falsifying screenshots, evidence, etc sent to the EWC during an inquiry.
-(B4) Being an OEA officer and failing to send a true and accurate screenshot as subpoenas by the EWC pursuant to Chapter 2 Section 4 of the "Stapleton County Economy Injuction Act of 2024". Failing to send a screenshot at all shall not be considered a crime under this section if made clear to the EWC."
 
+(B1) Lying, misleading, or withholding facts to/from the EWC during an inquiry.
+
+(B2) Failing to comply with a subpoena to appear in front of the EWC. Failing to testify after appearing is not considered a crime under this section.
+
+(B3) Falsifying or modifying screenshots, evidence, etc sent to the EWC during an inquiry.
+
+(B4) Being an OEA officer and failing to send a true and accurate screenshot as subpoenaed by the EWC pursuant to Chapter 2 Section 4 of the "Stapleton County Economy Injuction Act of 2024". Failing to send a screenshot at all shall not be considered a crime under this section if made clear to the EWC."
+
+---
+  
+<h3>CHAPTER FIVE</h3>
+Powers of the County Council; Congress of Firestone; Checks and balances
+
+---
+
+**SECTION 1:** The Stapleton County Council shall be able to impeach EWC committee members. The County Executive and District Attorney cannot be impeached from just the committee. The Commerce Secretary may be impeached from the committee by the Stapleton County Council, leaving their seat open, this seat cannot be filled by anyone else. If a new Commerce Secretary is confirmed by Congress they shall take the seat back over. The EWC can re-admit the Commerce Secretary into the committee by a simple majority vote.
+
+**SECTION 2:** The Stapleton County Council shall be able to by a super-majority vote (2/3) add, remove, or amend any financial policy. 
+
+**SECTION 3:** Firestone Congress shall be able to by a simple majority vote of both chambers through a bill remove EWC committee members.
+
+**SECTION 4:** Firestone Congress shall be able to by a simple majority vote of both chambers through a bill add, remove, or amend any financial policy.
