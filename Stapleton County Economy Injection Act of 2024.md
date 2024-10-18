@@ -257,7 +257,9 @@ The contingency plan; how this act may be nullified; and how funds will be dealt
 ---
 
 **SECTION 1:** The Stapleton County Council may not nullify, void, or make this act in not affect in any similar matter if any of the following are true:
+
 (A) There is an active loan out.
+
 (B) The county actively holds bonds.
 
 **SECTION 2:** Chapter 6, Section 1 of this act shall not hold true if the act nullifying, voiding, or making this act not in effect in any similar matter has its own contingency plan on how to deal with the loans and bonds.
