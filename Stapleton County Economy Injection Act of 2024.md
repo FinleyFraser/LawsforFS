@@ -19,7 +19,7 @@ O<small>ctober</small> ##, 2024
   
 ---
   
-<h3>Stapleton County Economic Injuction Act of 2024</h3>
+<h3>Stapleton County Economic Injection Act of 2024</h3>
 
 **PREAMBLE:** The Stapleton County Office of Economic Affairs alongside the Stapleton County Economic Welfare Committee as established by Executive Orders wish to create a more realistic and flourishing economy within the County allowing for citizens and businesses to benefit without causing the County to have to give all the money out of pocket.
 
@@ -236,3 +236,5 @@ The contingency plan; how this act may be nullified; and how funds will be dealt
 (B) The county actively holds bonds.
 
 **SECTION 2:** Chapter 6, Section 1 of this act shall not hold true if the act nullifying, voiding, or making this act not in effect in any similar matter has its own contingency plan on how to deal with the loans and bonds.
+
+
