@@ -19,7 +19,7 @@ O<small>ctober</small> ##, 2024
   
 ---
   
-<h3>Stapleton County Economic Injection Act of 2024</h3>
+<h3>Stapleton County Economic Injuction Act of 2024</h3>
 
 **PREAMBLE:** The Stapleton County Office of Economic Affairs alongside the Stapleton County Economic Welfare Committee as established by Executive Orders wish to create a more realistic and flourishing economy within the County allowing for citizens and businesses to benefit without causing the County to have to give all the money out of pocket.
 
@@ -43,13 +43,13 @@ Establishing the Stapleton County Economic Welfare Committee and Stapleton Count
 
 **SECTION 5:** The EWC is responsible for overseeing and managing the OEA, changing financial policies as defined later in this act, and doing anything else as defined by this act.
 
-**SECTION 6:** EWC members shall be nominated by the County Executive and confirmed by the Stapleton County Council by a simple majority vote.
+**SECTION 6:** EWC members who do not automatically hold a seat shall be nominated by the County Executive and confirmed by the Stapleton County Council by a simple majority vote.
 
 **SECTION 7:** EWC members shall be considered members of the Stapleton County Executive Branch and considered in the County Executives Administration but not considered cabinet or sub-cabinet members. The County Executive cannot remove them.
 
 **SECTION 8:** The EWC shall have a discord channel in the Stapleton County Discord Server or an OEA/EWC specific discord where they will conduct all debates and votes. The votes shall be chaired by the director, or in their absence the County Executive. This channel may be public or private. All votes must be publicized by the director, or in their absence the County Executive. The District Attorney shall ensure the lawful conduct of the EWC.
 
-**SECTION 9:** The director of the EWC will be elected by a simple majority vote of the EWC, the County Executive cannot be made director. The County Executive cannot be the director. If the director is elected County Executive they automatically vacate their position as director. The nominee for director cannot vote on their nomination.
+**SECTION 9:** The director of the EWC will be elected by a simple majority vote of the EWC, the County Executive and any members who automatically hold a seat on the EWC cannot be made director. If the director is elected County Executive they automatically vacate their position as director. The nominee for director cannot vote on their nomination.
 
 **SECTION 10:** The EWC shall be able to remove the director from their position by a simple majority vote. If the director is removed they will stay a normal member of the EWC. The director cannot vote in this case.
 
@@ -59,7 +59,8 @@ Establishing the Stapleton County Economic Welfare Committee and Stapleton Count
 
 **SECTION 13:** The Office of Economic Affairs ("OEA") shall be established under the EWC. It shall be considered a government office for the purposes of law. 
 
-**SECTION 14:** The OEA shall be run by an administrator, who shall be nominated by the director, or in their absence the County Executive, and confirmed by the EWC. They do not need to be employed in the OEA before being made administrator. 
+**SECTION 14:** The OEA shall be run by an administrator, who shall be nominated by the director, or in their absence the County Executive, and confirmed by the EWC and County Council. They do not need to be employed in the OEA before being made administrator. The administrator is considered a part of the Stapleton County Executive Branch and considered in the County Executives Administration but not considered cabinet or sub-cabinet members. The County Executive cannot remove them.
+
 
 **SECTION 15:** The OEA shall consist of two other ranks "Supervisor" and "Agent". All employees of the OEA (Agents, Supervisors and the administrator) shall be considered "OEA officers", "OEA agents", "agents of the OEA" and "officers of the OEA", these terms can be used by any law to mean any employee of the OEA.
 
@@ -213,7 +214,7 @@ It shall be a Felony Class C and recognized as a "Courts Only Offense", it shall
 ---
   
 <h3>CHAPTER FIVE</h3>
-Powers of the County Council; Checks and balances
+Powers of the County Council; Checks and balances.
 
 ---
 
@@ -221,4 +222,17 @@ Powers of the County Council; Checks and balances
 
 **SECTION 2:** The Stapleton County Council shall be able to by a super-majority vote (2/3) add, remove, or amend any financial policy. 
 
+**SECTION 3:**  The Stapleton County Council shall be able to impeach the administrator of the OEA.
 
+---
+  
+<h3>CHAPTER SIX</h3>
+The contingency plan; how this act may be nullified; and how funds will be dealt with in cases of emergencies.
+
+---
+
+**SECTION 1:** The Stapleton County Council may not nullify, void, or make this act in not affect in any similar matter if any of the following are true:
+(A) There is an active loan out.
+(B) The county actively holds bonds.
+
+**SECTION 2:** Chapter 6, Section 1 of this act shall not hold true if the act nullifying, voiding, or making this act not in effect in any similar matter has its own contingency plan on how to deal with the loans and bonds.
