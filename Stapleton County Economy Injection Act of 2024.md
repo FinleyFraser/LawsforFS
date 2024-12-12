@@ -86,7 +86,7 @@ EWC Investigation powers; searches, inquiries, etc.
 
 **SECTION 2:** The EWC may open inquiries into any other relevant financial matter.
 
-**SECTIOn 3:** The EWC may subpoena any relevant person to appear and testify in front of them during an inquiry, subpoenas must allow for 48 hours to comply. 
+**SECTION 3:** The EWC may subpoena any relevant person to appear and testify in front of them during an inquiry, subpoenas must allow for 48 hours to comply. 
 
 **SECTION 4:** The EWC may subpoena screenshots of OEA officers' bank account funds and wallet funds. These screenshots must show the funds of both along with the time and date. The screenshot must be made after the subpoena is sent. The subpoena must allow for 24 hours to comply. 
 
