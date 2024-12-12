@@ -51,7 +51,7 @@ Establishing the Stapleton County Economic Welfare Committee and Stapleton Count
 
 **SECTION 9:** The EWC shall have a discord channel in the Stapleton County Discord Server or an OEA/EWC specific discord where they will conduct all debates and votes. The votes shall be chaired by the director, or in their absence the County Executive. This channel may be public or private. All votes must be publicized by the director, or in their absence the County Executive. The District Attorney shall ensure the lawful conduct of the EWC.
 
-**SECTION 10:** The director of the EWC will be elected by a simple majority vote of the EWC, the County Executive and any members who automatically hold a seat on the EWC cannot be made director. If the director is elected County Executive they automatically vacate their position as director. The nominee for director cannot vote on their nomination.
+**SECTION 10:** The director of the EWC will be elected by a simple majority vote of the EWC; the County Executive and any members who automatically hold a seat on the EWC cannot be made director. If the director is elected County Executive they automatically vacate their position as director. The nominee for director cannot vote on their nomination.
 
 **SECTION 11:** The EWC shall be able to remove the director from their position by a simple majority vote. If the director is removed they will stay a normal member of the EWC. The director cannot vote in this case.
 
