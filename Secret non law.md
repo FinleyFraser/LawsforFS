@@ -1,7 +1,9 @@
 Citation:       In the matter of an application for warrant by Kam1rny
                 	2025 BCPC 045
-	Date:		2025-04-08
-	Registry:	Vancouver
+
+Date:		2025-04-08
+
+Registry:	Vancouver
 
 <p align="center"><b><i> IN THE BRITISH COLUMBIA PROVINCIAL COURT </b></i>
 
