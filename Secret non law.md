@@ -34,7 +34,7 @@ Registry:	Vancouver
 
 [3] The affidavit attached to the warrant request can be found [here](https://drive.google.com/file/d/1_F0-i41Vedqr6n_s8jr7EXhhlXd4m7vY/view) (Affidavit A),
 
-[4] Kam1rny added a "witness", dontreforli, a British Columbia Resident who made the affidavit found [here](https://drive.google.com/file/d/1JFeyk4R7atrK8rWabEDl9uwrrozcgL57/view) (Affidavit B).
+[4] The petitioner included an additional witness, dontreforli, a British Columbia Resident who made the affidavit found [here](https://drive.google.com/file/d/1JFeyk4R7atrK8rWabEDl9uwrrozcgL57/view) (Affidavit B).
 
 [5] Attached to the warrant was [this](https://www.youtube.com/watch?v=hqPY31mzNys) (Exhibit A) video.
 
@@ -108,7 +108,7 @@ Registry:	Vancouver
 
 [35] HOWEVER, it is unreasonable and outrageous to expect MikeOutlaws to give his name to the "MADSEC" Security Officer if the "MADSEC" Security Officer left the scene of the crime.
 
-[36] BUT, MikeOutlaws had to opportunity to give the "MADSEC" Security Officer his name when they both stopped at Denman Street @ the West Georgia intersection and were talking. However, instead of giving his name MikeOutlaws left the game.
+[36] BUT, MikeOutlaws had the opportunity to give the "MADSEC" Security Officer his name when they both stopped at Denman Street @ the West Georgia intersection and were talking. However, instead of giving his name MikeOutlaws left the game.
 
 [37] As such, because MikeOutlaws caused every collision and then left the game when given a reasonable opportunity to provide his name to the "MADSEC" Security Officer this court has Probable Cause to say he did in fact commit "Failure to Stop After Accident"
 
