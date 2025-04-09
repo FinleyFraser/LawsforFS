@@ -46,7 +46,7 @@ Registry:	Vancouver
 
 [8] Before determining whether the crimes alleged were committed or not to the Probable Cause standard this court must first determine there is evidence to the Probable Cause standard that MikeOutlaws is the person exhibited in the presented Exhibits (also known as "Proof of Identification" or "POID").
 
-[9] Exhibit A is recorded from the Point of View (POV) of a "MADSEC" Security employee. It shows a pinkish-purpleish Ferrari (or similar) following the employee (the entire clip basically) and ramming it multiple times (Timestamps: 1:12, 1:20, 2:26, 2:48, 3:37). It also shows the Ferrari "drifting" and driving recklessly throughout the entire clip.
+[9] Exhibit A is recorded from the Point of View (POV) of a "MADSEC" Security officer. It shows a pinkish-purpleish Ferrari (or similar) following the employee (the entire clip basically) and ramming it multiple times (Timestamps: 1:12, 1:20, 2:26, 2:48, 3:37). It also shows the Ferrari "drifting" and driving recklessly throughout the entire clip.
 
 [10] It is alleged that the driver of this vehicle is the accused, MikeOutlaws. Exhibit A does not provide any proof of identification that connects MikeOutlaws to these crimes, however, further exhibits do.
 
@@ -54,7 +54,7 @@ Registry:	Vancouver
 
 [12] Due to this overlap, there is absolutely no doubt the two videos are connected and contiguous from each other showing the further development of the scene(s) and incident(s) in Exhibit A.
 
-[13] At 2:39 Deputy Kam1rny informs the accused that he is detained "You're detained" (although he is unable to state a reason before the accused leaves). The accused then leaves at 2:50 and the game displays a "Player Left" message with the username "MikeOutlaws".
+[13] At 2:39 Deputy Kam1rny informs the accused that he is detained ("You're detained") (although he is unable to state a reason before the accused leaves). The accused then leaves at 2:50 and the game displays a "Player Left" message with the username "MikeOutlaws".
 
 [14] Using the player left message, we can now connect the driver of the pinkish-purpleish Ferrari to MikeOutlaws, confirming that, at least to the probable cause standard, MikeOutlaws is the driver of the Ferrari. 
 
@@ -70,7 +70,7 @@ Registry:	Vancouver
 
 [19] No circumstances would justify this degree of dangerous and reckless operation of a vehicle except if MikeOutlaws life was in immediate risk and he was fleeing from this risk.
 
-[20] However, this court is fairly certain using context clues from Exhibit B that MikeOutlaws was not fleeing for his life, but was instead trying to get the "MADSEC" Security drivers "insurance" for a hit and run, no where near justifying his actions (He could have, and should have reported it to the police instead of chasing the "MADSEC" Security officer).
+[20] However, this court is fairly certain using context clues from Exhibit B that MikeOutlaws was not fleeing for his life, but was instead trying to get the "MADSEC" Security officers "insurance" for a hit and run, no where near justifying his actions (He could have, and should have reported it to the police instead of chasing the "MADSEC" Security officer).
 
 **PUBLIC MISCHIEF** 
 
