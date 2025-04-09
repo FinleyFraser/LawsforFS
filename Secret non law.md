@@ -164,7 +164,7 @@ Registry:	Vancouver
 
 [58] Failure to execute the arrest warrant when given the opportunity **WILL** result in a Contempt of Court charge.
 
-In the Matter of an Applicant for an Warrant, the application is partially granted.
+In the Matter of an Applicant for an Arrest Warrant, the application is partially granted.
 
 
 ---
