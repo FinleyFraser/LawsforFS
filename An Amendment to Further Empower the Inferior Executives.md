@@ -40,6 +40,7 @@ F<small>ebruary</small> 04, 2025
 (a) This Act shall be enforced by any relevant parties.
 
 **§5. Amendments**
+
 (a) Section II, Subsection G of [An Act to Authorize Inferior Executives](https://forums.stateoffirestone.com/t/an-act-to-authorize-inferior-executives/26825) currently does not exist but shall be created and state:
 "Notwithstanding the above, the County Executive shall be able to dismiss, terminate, remove, or otherwise punish or discipline members of their Executive Administration if those members are in positions that meet all the following requirements: [The position] is established by County Legislation, executive order, and/or the County Charter; and [The position] is not within any of the following departments, agencies or offices: The Stapleton County Sheriff's Office, Stapleton County Fire Department, Stapleton County Port Authority and/or Stapleton County District Attorneys Office."
 
