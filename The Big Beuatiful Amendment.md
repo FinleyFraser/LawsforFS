@@ -16,7 +16,7 @@ J<small>une</small> 12, 2025
 
 ---
   
-<h3>A Bill to Protect Legals from Petty Arrests</h3>
+<h3>THE BIG BEAUTIFUL AMENDMENT</h3>
 
 **PREAMBLE:** This Bill protects legal members of our community from petty, necessary, and malicious arrests that ruin or hinder their careers unecessarily.
 
