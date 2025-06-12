@@ -78,3 +78,21 @@ J<small>une</small> 12, 2025
 (b) Notwithstanding the above, if a person commits a misdeamenor that they have been cited for and it is unexpunged or unpardoned, the peace officer may arrest them.
 
 (c) Notwithstanding the above Chapter 4, Section 27 "§27 - Reckless Driving" shall not get a Citation value and shall be arrest only.
+
+**§8. Courts Only**
+
+(a) The following crimes shall become "COURTS ONLY" and gain the "COURTS ONLY" label: 
+
+(a1) Chapter 11, Section 1 "§1 - Contempt of the Council"
+
+(a2) Chapter 9, Section 1 "§1 - Contempt of Prominence Council"
+
+(a3) Chapter 8, Section 5 "§5 - Misuse of Public Office"
+
+(a4) Chapter 6, Section 10 "§10 - Corruption"
+
+(a5) Chapter 6, Section 11 "§11 - Felony Corruption"
+
+(a6) Chapter 6, Section 21 "§21 - Unlawful Possession of Classified Information"
+
+(a7) Chapter 2, Section 14 "§14 - Medical Malpractice" 
