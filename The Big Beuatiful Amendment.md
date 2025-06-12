@@ -75,6 +75,6 @@ J<small>une</small> 12, 2025
 
 (a) Whereas a person has committed only a misdeamenor and they have no unexpunged or unpardonded arrest record they shall be given the citation instead of being arrested.
 
-(b) Notwithstanding the above, if a person commits a misdeamenor that they have been cited for and it is unexpunged and unpardoned, the peace officer may arrest them.
+(b) Notwithstanding the above, if a person commits a misdeamenor that they have been cited for and it is unexpunged or unpardoned, the peace officer may arrest them.
 
 (c) Notwithstanding the above Chapter 4, Section 27 "§27 - Reckless Driving" shall not get a Citation value and shall be arrest only.
